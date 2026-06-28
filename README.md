@@ -30,16 +30,14 @@ StudySync is a responsive landing page created as **Task 2** for the **KodBud We
 StudySync/
 │── index.html
 │── style.css
-└── images/
-    ├── hero-dashboard.png
-    └── logo.png
+
 ```
 
 ## How to Run
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/24a31a1224/studysync.git
+   git clone https://github.com/24a31a1224/Responsive-landing-page.git
    ```
 
 2. Open the project folder.
@@ -56,9 +54,6 @@ StudySync/
 ## Author
 
 **Kavya Varshini**
-
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://www.linkedin.com/in/your-linkedin-profile/
 
 ## License
 
